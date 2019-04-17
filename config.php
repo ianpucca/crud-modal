@@ -1,6 +1,6 @@
 <?php
 
-$dsn = "mysql:dbname=blog;host=localhost";
+$dsn = "mysql:dbname=banco;host=localhost";
 $dbuser = "root";
 $dbpass = "";
 
